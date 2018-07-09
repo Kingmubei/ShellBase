@@ -1,3 +1,3 @@
 # ShellBase
-Classic Shell Scripting \n
+Classic Shell Scripting /n
 step by step
